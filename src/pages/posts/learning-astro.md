@@ -2,6 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Aprendiendo sobre Markdown en Astro"
 author: 'Alumno de Astro'
-____: 2022-08-08
+pubDate: 2022-08-08
+tags: ["astro", "bloguear", "aprender en público", "éxitos"]
 ---
 ¡He aprendido mucho hoy! Astro me permite escribir en Markdown, pero también utilizar variables del frontmatter. Incluso puedo acceder a esos valores en un componente layout de Astro.
